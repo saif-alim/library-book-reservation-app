@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library Book Reservation App</string>
+    <string name="settings">settings</string>
+    <string name="home">home</string>
+</resources>
